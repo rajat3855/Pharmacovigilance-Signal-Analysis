@@ -2,7 +2,7 @@
 
 Exploratory pharmacovigilance analysis of FDA adverse-event reports for three diabetes medications: **Metformin**, **Jardiance (empagliflozin)** and **Ozempic (semaglutide)**. Data is pulled from the [openFDA Drug Adverse Event API](https://open.fda.gov/apis/drug/event/) (FAERS), cleaned into report-level and reaction-level tables, and analysed for reporting patterns, seriousness, and potential safety signals.
 
-> **Important:** openFDA data are *spontaneous reports*. The results describe reporting patterns only. They do **not** measure incidence, establish causality, or show that one drug is safer or riskier than another.
+**Important:** openFDA data are *spontaneous reports*. The results describe reporting patterns only. They do **not** measure incidence, establish causality, or show that one drug is safer or riskier than another.
 
 ## Key results (2014–2018 window)
 
